@@ -98,3 +98,5 @@ This guide walks you through the setup required to leverage NVIDIA GPUs for comp
 - NVIDIA for the CUDA Toolkit and GPU support
 - The TensorFlow team for providing the machine learning library
 - Docker for their container platform
+
+## Hoping to build it for Linux soon!
